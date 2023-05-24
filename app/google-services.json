@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004139964312",
+    "project_id": "chat-app-db807",
+    "storage_bucket": "chat-app-db807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004139964312:android:60701e480970a7874ceded",
+        "android_client_info": {
+          "package_name": "com.chivucatalin.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004139964312-g9r9ildm47a0n6mrstt6vrtksgni4d7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3QWTJcUg7KNT-N_OWbGrceQ92iOw1-5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004139964312-g9r9ildm47a0n6mrstt6vrtksgni4d7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
